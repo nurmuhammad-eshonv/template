@@ -1,0 +1,36 @@
+.nav__card2 {
+  ul {
+    display: flex;
+    gap: 40px;
+  }
+}
+.nav_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav__card3 {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+}
+.nav__card3-div {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.card2__a {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  color: black;
+}
+.nomer {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #3d4a39;
+}
+.nav {
+  margin-top: 30px;
+}
